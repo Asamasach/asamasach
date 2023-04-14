@@ -19,4 +19,4 @@ When I'm not coding or analyzing data, you can find me jogging, or enjoying a go
 
 Feel free to reach out if you have any questions or just want to say hi! I'm always happy to connect with fellow developers and industry professionals.
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=asamasach)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=asamasach&mode=weekly)](https://git.io/streak-stats)
