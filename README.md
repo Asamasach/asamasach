@@ -11,9 +11,9 @@
 
 
 
-I'm Mehdi, an industrial AI SaaS leader who's passionate about leveraging technology to help companies optimize their operations and make data-driven decisions. I'm the co-founder and CTO of Virasad, known for its product ![monitait.com](https://user-images.githubusercontent.com/31350077/232138951-e3bd379c-dd5c-42ca-b7ef-8991460de178.svg) [monitait.com](https://monitait.com), a cutting-edge platform that uses AI to monitor and analyze industrial processes, detect anomalies, inspect products, identify defects and predict failures.
+I'm **Mehdi** , an **industrial AI SaaS** enthusiastic who's passionate about leveraging technology to help companies optimize their operations and make data-driven decisions. I'm the co-founder and CTO of Virasad, known for its product ![monitait.com](https://user-images.githubusercontent.com/31350077/232138951-e3bd379c-dd5c-42ca-b7ef-8991460de178.svg) [monitait.com](https://monitait.com), a cutting-edge platform that uses AI to monitor and analyze industrial processes, detect anomalies, inspect products, identify defects and predict failures, to improve efficiency, reduce downtime, and enhance safety.
 
-I have a background in Electrical engineering and IT and several years of experience in the software industry, where I've worked on projects ranging from web development to machine learning. In my current role, I'm focused on developing innovative solutions that help industrial companies improve efficiency, reduce downtime, and enhance safety.
+I have a background in Electrical engineering 🔌 and IT 💻 and several years of experience in the software industry, where I've worked on projects ranging from web development to machine learning.
 
 When I'm not coding or analyzing data, you can find me jogging, or enjoying a good book.
 
