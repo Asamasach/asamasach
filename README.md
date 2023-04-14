@@ -1,10 +1,15 @@
-## Hi there! 👋
+<h1>
+  Hi there!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 <div id="badges">
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/asamasach)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
+
 
 I'm Mehdi, an industrial AI SaaS leader who's passionate about leveraging technology to help companies optimize their operations and make data-driven decisions. I'm the co-founder and CTO of Virasad, known for its product [monitait.com](https://monitait.com), a cutting-edge platform that uses AI to monitor and analyze industrial processes, detect anomalies, inspect products, identify defects and predict failures.
 
