@@ -18,3 +18,5 @@ I have a background in Electrical engineering and IT and several years of experi
 When I'm not coding or analyzing data, you can find me jogging, or enjoying a good book.
 
 Feel free to reach out if you have any questions or just want to say hi! I'm always happy to connect with fellow developers and industry professionals.
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=asamasach)](https://git.io/streak-stats)
