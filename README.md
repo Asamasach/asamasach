@@ -2,28 +2,24 @@
 
 AI Engineer with 7 years of experience building production computer vision and machine learning systems for industrial applications.
 
-**What I do:** Design and deploy real-time inspection, defect detection, and quality control systems for factories -- from image processing algorithms to production deployment on embedded Linux.
+### Monitait Vision Engine
+I've contributed the development of [Monitait.com](https://monitait.com), an end-to-end SaaS platform for industrial visual inspection. It enables factory operators to upload data, train defect detection models, and deploy real-time inference pipelines to production lines, all without ML expertise.
 
-### Current Work
-- CTO at [SmartFalcon-ai](https://smartfalcon-ai.com) -- 100+ deployed industrial vision systems across textile, automotive, glass, and barcode scanning
-- Built [Monitait.com](https://monitait.com) -- SaaS platform for industrial vision model training and deployment
+100+ inspection systems deployed across textile, automotive, glass, packaging, and barcode scanning domains.
 
-### Projects
+### Featured Project
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [Industrial Defect Detection](https://github.com/asamasach/industrial-defect-detection) | Real-time defect detection for production lines | YOLO, ONNX Runtime, C++, Python |
-| [Auto-Labeling Pipeline](https://github.com/asamasach/auto-labeling-pipeline) | Automated annotation using SAM3 + YOLOE + Qwen3-SAM2 | Python, PyTorch |
-| [VLM Evaluation Kit](https://github.com/asamasach/vlm-evaluation-kit) | Benchmarking vision-language models on industrial tasks | Python, HuggingFace |
-| [Barcode Scanner Preprocessing](https://github.com/asamasach/barcode-scanner-preprocessing) | Image preprocessing for stationary barcode readers | C++, OpenCV |
+| | |
+|---|---|
+| [**Industrial Defect Detection**](https://github.com/asamasach/industrial-defect-detection) | Real-time YOLO-based defect detection with demo videos from live production lines |
+| [**Live Demo**](https://huggingface.co/spaces/smartfalcon-ai/Industrial-Defect-Detection) | Try it on HuggingFace |
 
-### Live Demo
-[Industrial Defect Detection on HuggingFace](https://huggingface.co/spaces/smartfalcon-ai/Industrial-Defect-Detection)
+### Other Projects
+Projects including 3D reconstruction, VLM evaluation, auto-labeling pipelines, and barcode scanner preprocessing are available under NDA. Contact me for details.
 
 ### Tech Stack
 `C++` `Python` `OpenCV` `PyTorch` `ONNX Runtime` `Docker` `Linux` `Kafka` `Jenkins` `Git`
 
-### Links
-- [LinkedIn](https://www.linkedin.com/in/asamasach/)
-- [HuggingFace](https://huggingface.co/spaces/smartfalcon-ai/Industrial-Defect-Detection)
+### Contact
 - Email: s.mahdi.sadat.hosseini@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/asamasach/)
