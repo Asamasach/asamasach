@@ -14,8 +14,8 @@ I've contributed the development of [Monitait.com](https://monitait.com), an end
 | [**Industrial Defect Detection**](https://github.com/asamasach/industrial-defect-detection) | Real-time YOLO-based defect detection with demo videos from live production lines |
 | [**Live Demo**](https://huggingface.co/spaces/smartfalcon-ai/Industrial-Defect-Detection) | Try it on HuggingFace |
 
-### Other Projects
-Projects including 3D reconstruction, VLM evaluation, auto-labeling pipelines, and barcode scanner preprocessing are available under NDA. Contact me for details.
+### More
+Interested in seeing more of my work? Contact me directly.
 
 ### Tech Stack
 `C++` `Python` `OpenCV` `PyTorch` `ONNX Runtime` `Docker` `Linux` `Kafka` `Jenkins` `Git`
