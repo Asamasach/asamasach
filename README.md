@@ -20,6 +20,11 @@ Interested in seeing more of my work? Contact me directly.
 ### Tech Stack
 `C++` `Python` `OpenCV` `PyTorch` `ONNX Runtime` `Docker` `Linux` `Kafka` `Jenkins` `Git`
 
+### Profiles
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?logo=kaggle)](https://www.kaggle.com/asamasach)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-Demo-yellow?logo=huggingface)](https://huggingface.co/spaces/smartfalcon-ai/Industrial-Defect-Detection)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/asamasach/)
+
 ### Contact
 - Email: s.mahdi.sadat.hosseini@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/asamasach/)
