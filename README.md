@@ -1,22 +1,29 @@
-<h1>
-  Hi there!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+## Hi, I'm Mehdi Sadat Hosseini
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/asamasach">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+AI Engineer with 7 years of experience building production computer vision and machine learning systems for industrial applications.
 
+**What I do:** Design and deploy real-time inspection, defect detection, and quality control systems for factories -- from image processing algorithms to production deployment on embedded Linux.
 
+### Current Work
+- CTO at [SmartFalcon-ai](https://smartfalcon-ai.com) -- 100+ deployed industrial vision systems across textile, automotive, glass, and barcode scanning
+- Built [Monitait.com](https://monitait.com) -- SaaS platform for industrial vision model training and deployment
 
-I'm **Mehdi** , an **industrial AI SaaS** enthusiastic who's passionate about leveraging technology to help companies optimize their operations and make data-driven decisions. I'm the co-founder and CTO of Virasad, known for its product ![monitait.com](https://user-images.githubusercontent.com/31350077/232138951-e3bd379c-dd5c-42ca-b7ef-8991460de178.svg) [monitait.com](https://monitait.com), a cutting-edge platform that uses AI to monitor and analyze industrial processes, detect anomalies, inspect products, identify defects and predict failures, to improve efficiency, reduce downtime, and enhance safety.
+### Projects
 
-I have a background in Electrical engineering 🔌 and IT 💻 and several years of experience in the software industry, where I've worked on projects ranging from web development to machine learning.
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [Industrial Defect Detection](https://github.com/asamasach/industrial-defect-detection) | Real-time defect detection for production lines | YOLO, ONNX Runtime, C++, Python |
+| [Auto-Labeling Pipeline](https://github.com/asamasach/auto-labeling-pipeline) | Automated annotation using SAM3 + YOLOE + Qwen3-SAM2 | Python, PyTorch |
+| [VLM Evaluation Kit](https://github.com/asamasach/vlm-evaluation-kit) | Benchmarking vision-language models on industrial tasks | Python, HuggingFace |
+| [Barcode Scanner Preprocessing](https://github.com/asamasach/barcode-scanner-preprocessing) | Image preprocessing for stationary barcode readers | C++, OpenCV |
 
-When I'm not coding or analyzing data, you can find me jogging, or enjoying a good book.
+### Live Demo
+[Industrial Defect Detection on HuggingFace](https://huggingface.co/spaces/smartfalcon-ai/Industrial-Defect-Detection)
 
-Feel free to reach out if you have any questions or just want to say hi! I'm always happy to connect with fellow developers and industry professionals.
+### Tech Stack
+`C++` `Python` `OpenCV` `PyTorch` `ONNX Runtime` `Docker` `Linux` `Kafka` `Jenkins` `Git`
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=asamasach&mode=weekly)](https://git.io/streak-stats)
+### Links
+- [LinkedIn](https://www.linkedin.com/in/asamasach/)
+- [HuggingFace](https://huggingface.co/spaces/smartfalcon-ai/Industrial-Defect-Detection)
+- Email: s.mahdi.sadat.hosseini@gmail.com
