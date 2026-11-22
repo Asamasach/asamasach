@@ -1,6 +1,6 @@
 ## Hi, I'm Mehdi Sadat Hosseini
 
-AI engineer with **6+ years** of building production computer vision systems for industry, and a **PhD student at Gdańsk University of Technology** (Poland), researching semantic segmentation under label noise in optical remote sensing.
+AI engineer with **6+ years** of building production computer vision systems for industry, and a **PhD student at Gdańsk University of Technology**, researching semantic segmentation under label noise in optical remote sensing.
 
 ### Impact in numbers
 
@@ -46,4 +46,3 @@ AI engineer with **6+ years** of building production computer vision systems for
 ### Contact
 
 - Email: s.mahdi.sadat.hosseini@gmail.com
-- Based in Gdańsk, Poland
