@@ -45,4 +45,4 @@ AI engineer with **6+ years** of building production computer vision systems for
 
 ### Contact
 
-- Email: s.mahdi.sadat.hosseini@gmail.com
+- Email: s.mehdi.sadat.h@gmail.com
